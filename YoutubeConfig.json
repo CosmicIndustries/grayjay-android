@@ -206,14 +206,14 @@
   ],
   "developerSubmitUrl": "https://dev.grayjay.app/api/Dev/Submit",
   "captcha": {
-    "userAgent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.153 Mobile Safari/537.36",
+    "userAgent": "Roku/DVP-13.0 (13.0.0.24056-AX)",
     "captchaUrl": null,
     "cookiesToFind": [
       "GOOGLE_ABUSE_EXEMPTION"
     ]
   },
   "authentication": {
-    "userAgent": "Mozilla/5.0 (Linux; Android 12) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.6099.230 Mobile Safari/537.36",
+    "userAgent": "Roku/DVP-13.0 (13.0.0.24056-AX)",
     "completionUrl": "https://m.youtube.com/youtubei/v1/guide?*",
     "loginUrl": "https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fchannel_switcher&hl=en&ec=65620",
     "headersToFind": [
